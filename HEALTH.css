@@ -1095,7 +1095,7 @@ text-align: center;
 
 
 @media (min-width: 320px) and (max-width: 600px){
-.container5, .access img {
+.access img {
     display: none;
   }
 
@@ -1342,11 +1342,62 @@ display: block;
 
 .fa-clock{
   position: relative;
-left: 45px;
+left: 25px;
 }
 
+.fa-instagram{
+  position: relative;
+  right: 20px;
+}
 
+.container5{
+  display: block;
+}
 
+.container5-header h2{
+  display: block;
+  margin: 30px auto;
+}
+
+.container7, .container8, .container9, .small-content-p{
+  display: none;
+}
+
+.container5-vid{
+  margin: auto;
+}
+
+.container5-img{
+  width: auto;
+}
+
+.small-content{
+  margin: auto;
+  position: absolute;
+  top: 210px;
+  left: 30px;
+}
+
+.line2{
+  margin: 0 auto;
+  display: block;
+  position: inherit;
+  left: 90px;
+}
+
+.container5-img {
+  width: auto;
+  margin-top: 30px;
+}
+
+.line2{
+  left: 90px;
+}
+
+.container6-header h2 {
+  display: block;
+  margin: auto;
+}
 
 
 }

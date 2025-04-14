@@ -203,7 +203,7 @@ body {
 
 
 .material-symbols-outlined{
-  position: relative;
+  position: absolute;
   right: 0;
   top: 5px;
 }
